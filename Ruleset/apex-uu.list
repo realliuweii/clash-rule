@@ -1,5 +1,5 @@
 # 内容：Apex-UU策略
-# 数量：1737条
+# 数量：1736条
 IP-CIDR,3.0.0.0/4,no-resolve
 IP-CIDR,3.1.250.122/32,no-resolve
 IP-CIDR,3.24.157.0/24,no-resolve
